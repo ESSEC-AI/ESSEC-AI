@@ -1,7 +1,3 @@
-Certainly! Here's a professional and engaging README for your GitHub repository, encapsulating the essence of the ESSEC Metalab for Data, Technology & Society:
-
----
-
 # ESSEC Metalab for Data, Technology & Society
 
 Welcome to the official GitHub repository of the **ESSEC Metalab for Data, Technology & Society**. This platform serves as a central hub for all our projects, research, and initiatives at the intersection of data, technology, and society.
@@ -43,7 +39,3 @@ We welcome collaborations, contributions, and discussions. Feel free to explore 
 For more information, visit our [official website](https://metalab.essec.edu/about/).
 
 ---
-
-*Note: This README is based on information from the [ESSEC Metalab's About Page](https://metalab.essec.edu/about/).*
-
---- 
